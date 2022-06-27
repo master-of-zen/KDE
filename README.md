@@ -11,5 +11,7 @@ This is my configs for KDE
 
 #### Terminal
 [Alacritty](https://github.com/alacritty/alacritty)
+
 Theme: Atelierlakeside (light)
+
 With force blur kde script
