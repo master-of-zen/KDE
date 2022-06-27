@@ -4,6 +4,12 @@ This is my configs for KDE
 ![](https://github.com/master-of-zen/KDE/blob/main/Screenshots/dolphin.png)
 ![](https://github.com/master-of-zen/KDE/blob/main/Screenshots/pfetch.png)
 #### Icons
+
+[Uos [Deepin V20]]
+
+or
+
+(https://store.kde.org/p/1349376)
 [Bloom](https://store.kde.org/p/1481977/)
 
 #### Kvantum theme
